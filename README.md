@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**AisChrona/AisChrona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [Aiswarya] 👋  
+**MCA Student | Aspiring Data Scientist | UI/UX Enthusiast | Web Developer**
 
-Here are some ideas to get you started:
+🚀 I love turning ideas into working products. Passionate about:
+- Building intelligent systems using Python & ML  
+- Designing beautiful and usable UI/UX  
+- Solving real-world problems with data  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Key Projects:
+- 🎨 **DreamSketch**: AI that turns text prompts into sketch images  
+- 🧠 **Disease Prediction**: Predicts diseases using symptoms or scanned reports
+
+### 💼 Connect With Me:
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aiswarya-d-b583bb306/)
+
+
+---
+
+## 💻 Skills
+`Python` `Machine Learning` `UI/UX Design` `HTML` `CSS` `JavaScript` `GitHub` `Django` `Data Visualization`
+
