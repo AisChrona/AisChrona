@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hi, I'm [Aiswarya] 👋  
 **MCA Student | Aspiring Data Scientist | UI/UX Enthusiast | Web Developer**
