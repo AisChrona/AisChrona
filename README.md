@@ -18,5 +18,5 @@
 ---
 
 ## 💻 Skills
-`Python` `Machine Learning` `UI/UX Design` `HTML` `CSS` `JavaScript` `GitHub` `Django` `Data Visualization`
+`Python` `Machine Learning` `UI/UX Design` `HTML` `CSS` `GitHub` `Django` `Data Visualization`
 
