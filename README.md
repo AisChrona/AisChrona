@@ -1,6 +1,6 @@
 
 # Hi, I'm Aiswarya 
-**MCA Student | Aspiring Data Scientist | UI/UX Enthusiast | Web Developer | Data Science Intern @ Wipro **
+**MCA Student | Aspiring Data Scientist | UI/UX Enthusiast | Web Develope | Data Science intern @ Wipro**
 
  I love turning ideas into working products. Passionate about:
 - Building intelligent systems using Python & ML  
