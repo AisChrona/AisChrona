@@ -22,54 +22,76 @@ Passionate about Web Development, UI/UX Design, and AI-Powered Solutions.
 
 ---
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aiswarya-d-b583bb306/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AisChrona)
-[![Behance](https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance)](https://www.behance.net/yourusername)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)](https://medium.com/@yourusername)
+# 👋 Hi, I'm Aiswarya D
+
+I'm currently working on my Internship Projects.  
+I'm looking to collaborate on AI-based, Data Science, and Web Development projects.  
+I'm looking for help with my advanced AI/ML projects.  
+I'm currently learning Advanced Machine Learning & Deep Learning.  
+Ask me about my self-study journey or my Kaggle learning path.
 
 ---
 
-### 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
-![Figma](https://img.shields.io/badge/Figma-purple?style=flat-square&logo=figma)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=flat-square&logo=numpy)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=flat-square&logo=opencv)
-![Keras](https://img.shields.io/badge/Keras-red?style=flat-square&logo=keras)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql)
+## 🌐 Socials:
+
+[![LinkedIn](https://www.linkedin.com/in/aiswarya-d-b583bb306/)
+[![GitHub](https://github.com/AisChrona)
+[![Behance]([https://www.behance.net/Aish_1123])
+[![Medium]([https://medium.com/@aiswarya.ds2025])
 
 ---
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AisChrona&show_icons=true&theme=radical)
+## 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### ✨ Projects I’ve Built:
-- **DreamSketch** — AI-powered tool to transform text prompts into sketch images  
-- **Disease Prediction System** — Predicts diseases from symptoms or medical scans  
-- **Real-Time Object Detection** — Object detection using OpenCV & TensorFlow  
-- **Web Development Projects** — Blogs, Portfolios, Responsive Websites
+## 🛠️ Skills:
+
+- **Programming:** Python, R (Basics), HTML, CSS  
+- **Frameworks:** TensorFlow, Keras  
+- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib  
+- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab, Figma, Canva  
+- **Concepts:** Data Analysis, Machine Learning, Product Design, UX Design, Wireframing, Design Thinking  
+- **Soft Skills:** Quick Learner, Creative Thinker, Strong Communicator  
 
 ---
 
-### ✍️ Dev Quote:
-> "The best way to predict the future is to invent it."  
-> — Alan Kay
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=AisChrona&theme=dark&hide_border=false&show_icons=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AisChrona&theme=dark&hide_border=false)
 
 ---
 
-### 📌 Top Contributed Repos:
-- [DreamSketch](https://github.com/AisChrona/DreamSketch)  
-- [Disease Prediction](https://github.com/AisChrona/Disease-Prediction)  
-- [Object Detection](https://github.com/AisChrona/Object-Detection)  
+## 🏆 GitHub Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=AisChrona&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-### 📫 Let's Connect:
-Feel free to connect for projects, internships, or tech discussions!
+## ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=AisChrona&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+> ⚡ Passionate about solving real-world problems through AI, Web Development, and Creative Design.
+> ⚡ Ready to collaborate, learn, and create solutions that make an impact.
