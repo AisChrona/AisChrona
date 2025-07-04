@@ -91,7 +91,7 @@ Ask me about my self-study journey or my Kaggle learning path.
 
  🔝 Top Contributions & Certifications:
 
-[![GitHub Top Repositories](https://github-contributor-stats.vercel.app/api?username=AisChrona&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/AisChrona)(https://github.com/AisChrona/Certifications)
+[![GitHub Top Repositories](https://github-contributor-stats.vercel.app/api?username=AisChrona&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/AisChrona)
 
 👉 [My Certifications Repository](https://github.com/AisChrona/Certifications)
 
