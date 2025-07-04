@@ -22,15 +22,7 @@ Passionate about Web Development, UI/UX Design, and AI-Powered Solutions.
 
 ---
 
-# 👋 Hi, I'm Aiswarya D
 
-I'm currently working on my Internship Projects.  
-I'm looking to collaborate on AI-based, Data Science, and Web Development projects.  
-I'm looking for help with my advanced AI/ML projects.  
-I'm currently learning Advanced Machine Learning & Deep Learning.  
-Ask me about my self-study journey or my Kaggle learning path.
-
----
 
 ## 🌐 Socials:
 
