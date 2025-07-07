@@ -74,6 +74,7 @@ Passionate about Web Development, UI/UX Design, and AI-Powered Solutions
 
 ![](https://github-profile-trophy.vercel.app/?username=AisChrona&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+
 ---
 
 ## ✍️ Random Dev Quote:
