@@ -14,10 +14,10 @@ Passionate about <b>Web Development, UI/UX Design</b> and building <b>AI-powered
 ---
 
 ### 🤝 Open To Collaborations In
-- Data Science & ML Projects  
+- Data Science & Machine Learning  
 - UI/UX Case Studies & Web Design  
 - Open Source Contributions  
-- Technical Writing (Medium, GitHub)
+- Tech Writing (Medium, GitHub)
 
 ---
 
@@ -69,29 +69,29 @@ Passionate about <b>Web Development, UI/UX Design</b> and building <b>AI-powered
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AisChrona&theme=dark&show_icons=true&hide_border=false&count_private=true" height="160">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AisChrona&theme=dark&hide_border=false" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=AisChrona&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AisChrona&theme=tokyonight" height="160" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AisChrona&theme=radical&no-frame=false&margin-w=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=AisChrona&theme=tokyonight&margin-w=10" />
 </p>
 
 ---
 
 ## ✍️ Quote of the Day
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔝 Top Contributions & Certifications
+## 🔝 Top Contributions
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=AisChrona&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AisChrona&limit=5&theme=tokyonight" />
 </p>
 
 👉 **My Certifications:** https://github.com/AisChrona/Certifications
@@ -99,5 +99,6 @@ Passionate about <b>Web Development, UI/UX Design</b> and building <b>AI-powered
 ---
 
 > ⚡ *Passionate about solving real-world problems through AI, Web Development, and Creative Design.*
+
 
 
