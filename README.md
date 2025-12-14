@@ -1,9 +1,10 @@
-
-
 <h1 align="center">👋 Hi, I'm Aiswarya D</h1>
+
 <p align="center">
-MCA Student · Aspiring Data Scientist · Data Science Intern @ Wipro <br>
-Passionate about Web Development, UI/UX Design, and AI-Powered Solutions
+🎓 MCA Student · Aspiring Data Scientist <br>
+💡 Interested in Data Science, Machine Learning, and AI-Powered Solutions <br>
+🎨 Passionate about Web Development and UI/UX Design <br>
+🚀 Focused on building practical, real-world projects that combine design and intelligence
 </p>
 
 
