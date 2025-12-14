@@ -1,5 +1,4 @@
 
-You said:
 
 <h1 align="center">👋 Hi, I'm Aiswarya D</h1>
 <p align="center">
