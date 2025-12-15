@@ -1,99 +1,122 @@
-<h1 align="center">👋 Hi, I'm Aiswarya D</h1>
-
 <p align="center">
-🎓 MCA Student · Aspiring Data Scientist <br>
-💡 Interested in Data Science, Machine Learning, and AI-Powered Solutions <br>
-🎨 Passionate about Web Development and UI/UX Design <br>
-🚀 Focused on building practical, real-world projects that combine design and intelligence
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    weight=600&
+    size=26&
+    duration=3000&
+    pause=800&
+    color=2F81F7&
+    center=true&
+    vCenter=true&
+    width=950&
+    lines=MCA+AI+%26+Data+Science+Student;
+          Multimodal+Emotion+Intelligence+Researcher;
+          Python+%7C+Machine+Learning+%7C+LLMs;
+          Human-Centered+AI+Builder;
+          Future+Educator+%26+Researcher" />
 </p>
 
+---
+
+## 🧩 About Me
+
+🎓 I am pursuing **Master of Computer Applications (MCA)** with a specialization in **AI & Data Science**, driven by a strong interest in building **intelligent and meaningful systems**.
+
+🧠 My academic focus includes **Data Mining, Machine Learning, Deep Learning, and Large Language Models**, with special attention to **human-centered AI**, emotion-aware systems, and explainable models.
+
+🧪 I enjoy working on **research-oriented and real-time projects** that bridge theory with practice, especially in domains where **technology interacts directly with people**.
+
+🧑‍🏫 Alongside technical growth, I am deeply interested in **teaching, mentorship, and academic guidance**, with a long-term goal of becoming an **educator and researcher**.
 
 ---
 
-### 🚀 I'm Currently:
-- Working on Internship Projects (Python & Data Science)
-- Learning advanced Data Science & Machine Learning tools
-- Exploring UI/UX & Web Development deeply
+## 🎯 Goals
+
+### 🩵 Short-Term Goals
+- Strengthen core foundations in **Python, Data Mining, and Machine Learning**
+- Work on **academic and research-driven AI projects**
+- Gain internship experience in **AI / Data Science / Analytics**
+- Improve communication and presentation skills for teaching and mentoring
+
+### 💠 Long-Term Goals
+- Become an **AI educator and mentor**
+- Contribute to research in **Emotion AI, Machine Learning, and AI for Education**
+- Build intelligent systems that support **learning, decision-making, and human well-being**
+- Combine technical expertise with leadership and academic impact
 
 ---
 
-### 🤝 I'm Open to:
-- Collaborations in Data Science, UI/UX, and AI Projects
-- Contributing to Open Source Projects
-- Tech Content Writing on Medium & GitHub
+## ⚙️ Skills & Tech Stack
+
+**Programming Languages**  
+🐍 Python | C | C++ | Java  
+
+**Core Areas**  
+📊 Data Mining | 🤖 Machine Learning | 🧠 Deep Learning | 💬 Large Language Models  
+
+**Libraries & Tools**  
+🧰 Pandas | NumPy | Matplotlib | Scikit-learn | Excel  
+
+**Additional Skills**  
+📚 Teaching & Mentorship  
+🗂️ GitHub & Version Control  
+🗄️ SQL & Databases  
+📝 Project Documentation  
+🧑‍🤝‍🧑 Team Collaboration  
 
 ---
 
+## 🚀 I’m Currently Working On
 
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiswarya-d-b583bb306/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AisChrona)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/Aish_1123)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@aiswarya.ds2025])
-
-
----
-
-## 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🐍 Strengthening my **Python programming** skills for AI and Data Science  
+🌱 Learning **Deep Learning and LLM fundamentals**  
+📘 Practicing **Data Mining & Machine Learning** using real-world datasets  
+🧑‍🏫 Enhancing my ability to **simplify and explain technical concepts**  
+💼 Exploring **internships** in AI/ML, Data Science, and Analytics  
+🧠 Learning **Project Management basics** (Agile & Scrum)
 
 ---
 
-## 🛠️ Skills:
+## 🧭 Learning Roadmap
 
-- **Programming:** Python, R (Basics), HTML, CSS  
-- **Frameworks:** TensorFlow, Keras  
-- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib  
-- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab, Figma, Canva  
-- **Concepts:** Data Analysis, Machine Learning, Product Design, UX Design, Wireframing, Design Thinking  
-- **Soft Skills:** Quick Learner, Creative Thinker, Strong Communicator  
-
----
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=AisChrona&theme=dark&hide_border=false&show_icons=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AisChrona&theme=dark&hide_border=false)
+✅ Python Foundations (Syntax, Data Structures, OOP)  
+🔄 Data Handling with Pandas & NumPy  
+🔍 Data Mining & Machine Learning Basics  
+📈 Data Visualization with Matplotlib  
+🧠 Deep Learning & LLMs (conceptual understanding)  
+🎯 Future Goal → Power BI & Advanced Analytics Tools  
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🤝 Open To
 
-![](https://github-profile-trophy.vercel.app/?username=AisChrona&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-
----
-
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🧑‍🏫 Teaching & Mentorship opportunities  
+🧠 AI / ML / Data Analytics internships or research roles  
+🧩 Project coordination and collaborative problem solving  
+🐍 Python learning and development projects  
 
 ---
 
- 🔝 Top Contributions & Certifications:
+## 📊 GitHub Stats
 
-[![GitHub Top Repositories](https://github-contributor-stats.vercel.app/api?username=AisChrona&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/AisChrona)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-👉 [My Certifications Repository](https://github.com/AisChrona/Certifications)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-> ⚡ Passionate about solving real-world problems through AI, Web Development, and Creative Design.
+## 💬 Personal Note
+
+> *“I aim to build intelligent systems that understand people, not just data — and use technology to create meaningful impact.”*
+
 
 
 
