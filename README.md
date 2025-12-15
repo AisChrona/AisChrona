@@ -1,18 +1,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
     font=Fira+Code&
-    weight=600&
-    size=26&
-    duration=3000&
-    pause=800&
+    size=28&
+    duration=2600&
+    pause=1100&
     color=2F81F7&
     center=true&
     vCenter=true&
-    width=950&
+    width=1000&
     lines=MCA+AI+%26+Data+Science+Student;
-          Multimodal+Emotion+Intelligence+Researcher;
-          Python+%7C+Machine+Learning+%7C+LLMs;
-          Human-Centered+AI+Builder;
+          Aspiring+Data+Scientist;
+          Human-Centered+AI+%26+UX+Enthusiast;
+          Python+%7C+Machine+Learning+%7C+Design;
           Future+Educator+%26+Researcher" />
 </p>
 
@@ -20,103 +19,104 @@
 
 ## 🧩 About Me
 
-🎓 I am pursuing **Master of Computer Applications (MCA)** with a specialization in **AI & Data Science**, driven by a strong interest in building **intelligent and meaningful systems**.
+🎓 I am an **MCA (AI & Data Science)** student at **Amrita Vishwa Vidyapeetham, Kochi**, with a strong interest in **data-driven and human-centered AI systems**.
 
-🧠 My academic focus includes **Data Mining, Machine Learning, Deep Learning, and Large Language Models**, with special attention to **human-centered AI**, emotion-aware systems, and explainable models.
+💡 I enjoy working at the intersection of **Data Science, Machine Learning, and UI/UX**, focusing on building solutions that are not only intelligent but also **meaningful and user-focused**.
 
-🧪 I enjoy working on **research-oriented and real-time projects** that bridge theory with practice, especially in domains where **technology interacts directly with people**.
+🧠 I have hands-on experience through **industry internships, virtual simulations, and academic projects**, covering analytics, machine learning, software engineering, and design.
 
-🧑‍🏫 Alongside technical growth, I am deeply interested in **teaching, mentorship, and academic guidance**, with a long-term goal of becoming an **educator and researcher**.
+🧑‍🏫 I am deeply interested in **teaching, mentorship, and research**, with a long-term vision of becoming an **educator and researcher** who bridges academic learning with real-world technology.
 
 ---
 
-## 🎯 Goals
+## 🎯 Career Objective
 
-### 🩵 Short-Term Goals
-- Strengthen core foundations in **Python, Data Mining, and Machine Learning**
-- Work on **academic and research-driven AI projects**
-- Gain internship experience in **AI / Data Science / Analytics**
-- Improve communication and presentation skills for teaching and mentoring
-
-### 💠 Long-Term Goals
-- Become an **AI educator and mentor**
-- Contribute to research in **Emotion AI, Machine Learning, and AI for Education**
-- Build intelligent systems that support **learning, decision-making, and human well-being**
-- Combine technical expertise with leadership and academic impact
+Aspiring **Data Scientist** skilled in **Python, Machine Learning, and human-centered design**, with experience in building analytical and scalable solutions. Selected for the **IIT Hyderabad AI/ML Cohort** by Masai School, with a passion for creating impactful, user-focused engineering systems.
 
 ---
 
 ## ⚙️ Skills & Tech Stack
 
-**Programming Languages**  
-🐍 Python | C | C++ | Java  
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-**Core Areas**  
-📊 Data Mining | 🤖 Machine Learning | 🧠 Deep Learning | 💬 Large Language Models  
+### 📊 Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-**Libraries & Tools**  
-🧰 Pandas | NumPy | Matplotlib | Scikit-learn | Excel  
-
-**Additional Skills**  
-📚 Teaching & Mentorship  
-🗂️ GitHub & Version Control  
-🗄️ SQL & Databases  
-📝 Project Documentation  
-🧑‍🤝‍🧑 Team Collaboration  
-
----
-
-## 🚀 I’m Currently Working On
-
-🐍 Strengthening my **Python programming** skills for AI and Data Science  
-🌱 Learning **Deep Learning and LLM fundamentals**  
-📘 Practicing **Data Mining & Machine Learning** using real-world datasets  
-🧑‍🏫 Enhancing my ability to **simplify and explain technical concepts**  
-💼 Exploring **internships** in AI/ML, Data Science, and Analytics  
-🧠 Learning **Project Management basics** (Agile & Scrum)
+### 🧰 Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
 ---
 
-## 🧭 Learning Roadmap
+## 🚀 Project Highlights
 
-✅ Python Foundations (Syntax, Data Structures, OOP)  
-🔄 Data Handling with Pandas & NumPy  
-🔍 Data Mining & Machine Learning Basics  
-📈 Data Visualization with Matplotlib  
-🧠 Deep Learning & LLMs (conceptual understanding)  
-🎯 Future Goal → Power BI & Advanced Analytics Tools  
+- **AI-Based Disease Prediction**  
+  Hybrid ML system combining CNN and classical models to predict diseases from symptoms and MRI scans.
+
+- **DreamSketch – AI Art Generator**  
+  Generative AI pipeline converting text prompts into sketches using CLIP, BERT, and Stable Diffusion.
+
+- **Real-Time Object Detection**  
+  Live object detection using SSD-MobileNet v3 with OpenCV and TensorFlow.
+
+- **PC Customization Web App**  
+  Dynamic PC builder with compatibility checks and auto-pricing using PHP, JavaScript, and MySQL.
+
+- **Android Applications**  
+  Developed Android apps in Java with clean UI flows and backend logic.
 
 ---
 
-## 🤝 Open To
+## 🏆 Achievements & Activities
 
-🧑‍🏫 Teaching & Mentorship opportunities  
-🧠 AI / ML / Data Analytics internships or research roles  
-🧩 Project coordination and collaborative problem solving  
-🐍 Python learning and development projects  
+- Selected for **IIT Hyderabad AI/ML Cohort** (Masai School)
+- Completed **Infosys Springboard Generative AI Bootcamp**
+- Participated in **Snowflake Discover 2025**
+- Published **UI/UX case studies on Behance** and blogs on Medium
+- Achieved **87% accuracy** in Kaggle Titanic ML Challenge
+- Lead NSS Coordinator (2021–2024)
+- State-Level **Badminton Player**
 
 ---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+---
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 💬 Personal Note
 
 > *“I aim to build intelligent systems that understand people, not just data — and use technology to create meaningful impact.”*
-
 
 
 
