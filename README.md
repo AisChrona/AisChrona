@@ -103,7 +103,9 @@
 ---
 
 ### 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AisChrona)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AisChrona&theme=tokyonight&no-frame=true&column=6" />
+</p>
 
 ---
 
