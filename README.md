@@ -8,6 +8,8 @@
 
 ---
 
+⭐ *Always learning, building, and improving — one project at a time.*
+
 ### 👩‍💻 About Me
 🎓 MCA Student @ **Amrita Vishwa Vidyapeetham** | 🎓 BCA Graduate  
 🧠 Passionate about **Data Science, Artificial Intelligence, Machine Learning, Web Development & UI/UX Design**  
@@ -101,11 +103,7 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=AisChrona&theme=tokyonight&no-frame=true&column=6&margin-w=10"
-  />
-</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AisChrona)
 
 ---
 
@@ -120,7 +118,6 @@
 
 ## 💬 Personal Note
 
-⭐ *Always learning, building, and improving — one project at a time.*
 
 > *“I aim to build intelligent systems that understand people, not just data — and use technology to create meaningful impact.”*
 
