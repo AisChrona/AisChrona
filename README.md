@@ -26,16 +26,16 @@
 
 ### 📫 Let’s Connect
 <p align="center">
-  <a href="(https://www.linkedin.com/in/aiswarya-d-b583bb306/)">
+  <a href="https://www.linkedin.com/in/aiswarya-d-b583bb306/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/AisChrona">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="(https://www.behance.net/Aish_1123)">
+  <a href="https://www.behance.net/Aish_1123">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
-  <a href="(https://medium.com/@aiswarya.ds2025)">
+  <a href="https://medium.com/@aiswarya.ds2025">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
@@ -102,7 +102,9 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AisChrona&theme=onedark&no-frame=true&margin-w=10" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=AisChrona&theme=tokyonight&no-frame=true&column=6&margin-w=10"
+  />
 </p>
 
 ---
